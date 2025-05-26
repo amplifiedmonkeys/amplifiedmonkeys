@@ -41,13 +41,13 @@ export default function App({ Component, pageProps }: AppProps) {
                     name="description"
                     content="Experienced web developer and designer specializing in creating modern, responsive websites with clean, efficient code and stunning visuals. Let's build something amazing together."
                 />
-                <meta name="author" content="Zaid khan" />
-                <meta property="og:title" content="Kael Donovan | Web Developer & Designer Portfolio" />
+                <meta name="author" content="vimal das" />
+                <meta property="og:title" content="Vimal das | Graphic Designer Portfolio" />
                 <meta
                     property="og:description"
-                    content="Discover my web development and design portfolio. I craft beautiful, responsive websites that bring ideas to life."
+                    content="Explore cutting-edge web projects and designs by Amplified Monkeys."
                 />
-                <meta property="og:url" content="https://kael-donovan.vercel.app/" />
+                <meta property="og:url" content="https://www.amplifiedmonkeys.com/" />
                 <meta property="og:type" content="website" />
             </Head>
 
